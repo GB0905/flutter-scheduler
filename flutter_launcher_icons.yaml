@@ -1,0 +1,8 @@
+flutter_icons:
+  # 실행 명령어
+  # flutter pub run flutter_launcher_icons:main
+
+  ios: true
+  android: true
+  image_path: "asset/image/app_icon.png"
+  remove_alpha_ios: true

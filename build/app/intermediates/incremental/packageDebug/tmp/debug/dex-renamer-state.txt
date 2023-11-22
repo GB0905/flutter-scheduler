@@ -1,0 +1,4 @@
+#Wed Nov 22 15:34:09 KST 2023
+base.0=C\:\\Users\\quan0\\capstone\\schedule_management-v3\\schedule_management\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
